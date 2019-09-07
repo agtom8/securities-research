@@ -1,0 +1,3 @@
+The project is part of a larger effort to serve as proof of concept for acquiring basic stock trade and financial information from an online resource available for public when daily IDSI security pricing files are out of consideration for whatever reason.
+
+The code is provided for academic purposes only, and it is not meant to be executed in any real production environment.  The process depends on data by a third party service provider the availability and/or generated page layout of which are not guaranteed and should not be taken for granted.
